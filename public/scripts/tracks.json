@@ -1,0 +1,16 @@
+[
+  {
+    "name": "apple",
+    "type": "timed",
+    "duration": 7000
+  },
+  {
+    "name": "orange",
+    "type": "requires-input"
+  },
+  {
+    "name": "kiwi",
+    "type": "timed",
+    "duration": 15000
+  }
+]
